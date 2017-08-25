@@ -13,11 +13,14 @@ Requirements:
 Deployment Procedures:
 
 1) Clone wordpress-bitnami repository
+
 git clone https://github.com/bparinas/wordpress-bitnami.git
 
 2) Switch to wordpress-bitnami directory and execute docker-compose up
 
-3) Open your web browser and use the docker host ip address for the wordpress URL (kindly use the credentials in the email). Below is the sample URL: http://<docker-host-ip>/wp-admin/index.php
+3) Open your web browser and use the docker host ip address for the wordpress URL (kindly use the credentials in the email). 
+
+Below is the sample URL: http://[docker-host-ip]/wp-admin/index.php
 
 
 Happy packaging :)
