@@ -3,7 +3,9 @@
 Requirements:
 
 *Ubuntu 16.04 (virtual machine)
+
 *Docker Engine (Docker version 17.06.1-ce, build 874a737)
+
 *Docker Compose (docker-compose version 1.15.0, build e12f3b9)
 
 
