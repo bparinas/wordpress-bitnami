@@ -9,6 +9,7 @@ Requirements:
 *Docker Compose (docker-compose version 1.15.0, build e12f3b9)
 
 
+
 Deployment Procedures:
 
 1) Clone wordpress-bitnami repository
